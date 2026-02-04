@@ -22,9 +22,22 @@ News 🔥
 Selected Publications 📑
 ======
 
-
-- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;">UbiComp '21</span>
-  [Your Smart Speaker Can" Hear" Your Heartbeat!]([https://example.com/paper1](https://dl.acm.org/doi/abs/10.1145/3432237))
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;">BIBM '22</span>
+  [Sleep respiration monitoring using attention-reinforced radar signals](https://ieeexplore.ieee.org/abstract/document/9995437/)
+  <br>
+  Siheng Li, **<u>Zhi Wang</u>**, Beihong Jin, Fusang Zhang, Xiaoyong Ren, Yitong Zhang.
+  <br>
+  *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*
+  <br>
+  <details style="cursor: pointer;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      Existing contactless solutions on sleep respiration monitoring are either performed in controlled environments, having poor usability in practical scenarios, or only provide coarse-grained respiration rates, being unable to accurately detect abnormal events of patients. In this paper, we propose Respnea, a non-invasive sleep respiration monitoring system using an impulse-radio ultra-wideband (IR-UWB) radar. Particularly, we propose a profiling algorithm, which can locate the sleep positions in non-controlled environments and identify different states of subjects. Further, we construct a deep learning model which adopts a multi-headed self-attention and learn the patterns implicit in the respiration signal so as to distinguish sleep respiration events at a granularity of seconds. We conduct experiments on data collected from patients with sleep disorders and healthy subjects. The experimental results show that Respnea achieves a low error (less than 0.27 bpm) in respiration rate estimation and reaches the accuracy of 88.89% diagnosing the severity of Sleep Apnea-Hypopnea Syndrome.
+    </div>
+  </details>
+  
+- <span style="background-color: #8A2BE2; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;">UbiComp '21</span>
+  [Your Smart Speaker Can" Hear" Your Heartbeat!](https://dl.acm.org/doi/abs/10.1145/3432237)
   <br>
   Fusang Zhang, **<u>Zhi Wang</u>**, Beihong Jin, Jie Xiong, Daqing Zhang.
   <br>
