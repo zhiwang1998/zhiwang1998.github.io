@@ -21,7 +21,48 @@ News 🔥
 
 Selected Publications 📑
 ======
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
+  [Push the limit of highly accurate ranging on commercial uwb devices](https://dl.acm.org/doi/abs/10.1145/3659602)
+  <br>
+  Junqi Ma, Fusang Zhang, Beihong Jin, Chang Su, Siheng Li, **<u>Zhi Wang</u>**, Jiazhi Ni.
+  <br>
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      Ranging plays a crucial role in many wireless sensing applications. Among the wireless techniques employed for ranging, Ultra-Wideband (UWB) has received much attention due to its excellent performance and widespread integration into consumer-level electronics. However, the ranging accuracy of the current UWB systems is limited to the centimeter level due to bandwidth limitation, hindering their use for applications that require a very high resolution. This paper proposes a novel system that achieves sub-millimeter-level ranging accuracy on commercial UWB devices for the first time. Our approach leverages the fine-grained phase information of commercial UWB devices. To eliminate the phase drift, we design a fine-grained phase recovery method by utilizing the bi-directional messages in UWB two-way ranging. We further present a dual-frequency switching method to resolve phase ambiguity. Building upon this, we design and implement the ranging system on commercial UWB modules. Extensive experiments demonstrate that our system achieves a median ranging error of just 0.77 mm, reducing the error by 96.54% compared to the state-of-the-art method. We also present three real-life applications to showcase the fine-grained sensing capabilities of our system, including i) smart speaker control, ii) free-style user handwriting, and iii) 3D tracking for virtual-reality (VR) controllers.
+    </div>
+  </details>
+  
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
+  [Uwb-enabled sensing for fast and effortless blood pressure monitoring](https://dl.acm.org/doi/abs/10.1145/3659617)
+  <br>
+  **<u>Zhi Wang</u>**, Beihong Jin, Fusang Zhang, Siheng Li, Junqi Ma.
+  <br>
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      Blood Pressure (BP) is a critical vital sign to assess cardiovascular health. However, existing cuff-based and wearable-based BP measurement methods require direct contact between the user's skin and the device, resulting in poor user experience and limited engagement for regular daily monitoring of BP. In this paper, we propose a contactless approach using Ultra-WideBand (UWB) signals for regular daily BP monitoring. To remove components of the received signals that are not related to the pulse waves, we propose two methods that utilize peak detection and principal component analysis to identify aliased and deformed parts. Furthermore, to extract BP-related features and improve the accuracy of BP prediction, particularly for hypertensive users, we construct a deep learning model that extracts features of pulse waves at different scales and identifies the different effects of features on BP. We build the corresponding BP monitoring system named RF-BP and conduct extensive experiments on both a public dataset and a self-built dataset. The experimental results show that RF-BP can accurately predict the BP of users and provide alerts for users with hypertension. Over the self-built dataset, the mean absolute error (MAE) and standard deviation (SD) for SBP are 6.5 mmHg and 6.1 mmHg, and the MAE and SD for DBP are 4.7 mmHg and 4.9 mmHg.
+    </div>
+  </details>
 
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '24</span>
+  [Embracing distributed acoustic sensing in car cabin for children presence detection](https://dl.acm.org/doi/abs/10.1145/3643548)
+  <br>
+  Yuqi Su, Fusang Zhang, Kai Niu, Tianben Wang, Beihong Jin, **<u>Zhi Wang</u>**, Yalan Jiang, Daqing Zhang, Lili Qiu, Jie Xiong.
+  <br>
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #961c1c; font-size: 0.95em; color: #444;">
+      Contactless acoustic sensing has been actively exploited in the past few years to enable a large range of applications, ranging from fine-grained vital sign monitoring to coarse-grained human tracking. However, existing acoustic sensing systems mainly work on smartphone or smart speaker platforms. In this paper, we envision an exciting new acoustic sensing platform, i.e., car cabin which is inherently embedded with a large number of speakers and microphones. We propose the new concept of distributed acoustic sensing and develop novel designs leveraging the unique characteristics of rich multi-path in car cabin to enable fine-grained sensing even when the primary reflection is totally blocked. By using child presence detection as the application example, we show that child presence can be detected through body motions or even subtle breath (when the child is sleeping or in coma) at all locations in the cabin without any blind spots. We further show that the proposed system can robustly work in different car cabins, achieving an average detection accuracy of 97% and a false alarm rate always below 2% under different scenarios including those challenging ones such as rear-facing seat blockage. We believe the proposed distributed sensing modality in car cabin pushes acoustic sensing one big step towards real-life adoption.
+    </div>
+  </details>
+  
 - <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '23</span>
   [ECG-grained cardiac monitoring using uwb signals](https://dl.acm.org/doi/abs/10.1145/3569503)
   <br>
