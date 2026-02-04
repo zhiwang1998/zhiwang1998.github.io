@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 
-Bio
+Bio 👨‍🎓
 ======
 I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. Beihong Jin. I received my B.S. degree from Beijing Jiaotong University in 2020.
 
 
 
-News
+News 🔥
 ======
 
 
-Selected Publications
+Selected Publications 📑
 ======
 
