@@ -22,7 +22,7 @@ News 🔥
 Selected Publications 📑
 ======
 
-- <span style="background-color: #8A2BE2; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;">BIBM '22</span>
+- <span style="background-color: #8A2BE2; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600; font-size: 0.8em">BIBM '22</span>
   [Sleep respiration monitoring using attention-reinforced radar signals](https://ieeexplore.ieee.org/abstract/document/9995437/)
   <br>
   Siheng Li, **<u>Zhi Wang</u>**, Beihong Jin, Fusang Zhang, Xiaoyong Ren, Yitong Zhang.
@@ -36,7 +36,7 @@ Selected Publications 📑
     </div>
   </details>
   
-- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;">UbiComp '21</span>
+- <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '21</span>
   [Your Smart Speaker Can" Hear" Your Heartbeat!](https://dl.acm.org/doi/abs/10.1145/3432237)
   <br>
   Fusang Zhang, **<u>Zhi Wang</u>**, Beihong Jin, Jie Xiong, Daqing Zhang.
