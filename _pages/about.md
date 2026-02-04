@@ -22,18 +22,19 @@ News 🔥
 
 Selected Publications 📑
 ======
-- <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 10px;">
+- <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
-    [RF-AE: Single-site Arterial Elasticity Estimation Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3729460)
+    <span style="background-color: #961c1c; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600; font-size: 0.8em; display: inline-block; margin-bottom: 5px;">UbiComp '25</span>
     <br>
-    **<u>Zhi Wang</u>**, Beihong Jin, Yuhui Chen, Fusang Zhang, Siheng Li, Junqi Ma, Tao Gong, Yu Fu.
+    <a href="https://dl.acm.org/doi/abs/10.1145/3729460" style="font-weight: bold; text-decoration: none; color: #0056b3; font-size: 1.1em;">RF-AE: Single-site Arterial Elasticity Estimation Using UWB Signals</a>
     <br>
-    *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*
+    <div style="margin: 8px 0;">
+      <strong><u>Zhi Wang</u></strong>, Beihong Jin, Yuhui Chen, Fusang Zhang, Siheng Li, Junqi Ma, Tao Gong, Yu Fu.
+    </div>
+    <em style="color: #666;">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)</em>
   </div>
-
-  <div style="width: 220px; flex-shrink: 0;">
-    <img src="profile.png" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="width: 200px; flex-shrink: 0;">
+    <img src="profile.png" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
   </div>
 </div>
   <br>
