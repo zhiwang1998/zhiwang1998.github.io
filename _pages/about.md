@@ -36,7 +36,7 @@ Selected Publications 📑
     </div>
   </details>
 
-- <span style="background-color: #b58900; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">UbiComp '25</span>
+- <span style="background-color: #b58900; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">INFOCOM '25</span>
   [MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing](https://ieeexplore.ieee.org/abstract/document/11044652/)
   <br>
   Junqi Ma, Fusang Zhang, Beihong Jin, Siheng Li, **<u>Zhi Wang</u>**.
