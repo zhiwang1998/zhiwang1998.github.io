@@ -22,7 +22,7 @@ News 🔥
 
 Selected Publications 📑
 ======
-- <span style="background-color: #90EE90; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">IEEE TMC</span>
+- <span style="background-color: #1C4596; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">IEEE TMC</span>
   [Transfer Learning-enabled Contactless Blood Pressure Monitoring](https://ieeexplore.ieee.org/document/11481627)
   <br>
   **<u>Zhi Wang</u>**, Zhe Li, Beihong Jin, Yuhui Chen, Tao Gong.
@@ -31,7 +31,7 @@ Selected Publications 📑
   <br>
   <details style="cursor: pointer;margin-bottom: 1em;">
     <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
-    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #90EE90; font-size: 0.95em; color: #444;">
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #1C4596; font-size: 0.95em; color: #444;">
       Blood pressure is one of the important vital signs for assessing cardiovascular health. Due to the operational inconvenience and poor user compliance of cuff-based blood pressure measurement solutions, contactless sensing of blood pressure, especially via microwave radars, has emerged as a research focus. However, the paramount challenge faced is the scarcity of labeled radar data, where radar data, labeled or not, can be used to derive different modalities of physiological signals. Therefore, we leverage transfer learning techniques to build a deep learning model named TransBP for contactless blood pressure monitoring. Specifically, TransBP employs convolutional neural networks for feature extraction and combines self-attention and cross-attention mechanisms to capture and integrate spatiotemporal dependencies across intra- and inter-modality into feature embeddings. TransBP is pre-trained using abundant PPG and ECG signals collected by wearable devices to learn the inherent features related to blood pressure. Then, it is fine-tuned using limited labeled radar data and a large quantity of unlabeled radar data via a three-stage strategy. By incorporating supervised training guided by the maximum mean discrepancy loss and adversarial training guided by the regressor discrepancy loss into the fine-tuning process, TransBP actively reduces the distributional difference between the source domain and the target domain, thereby improving the generalization capability. We conduct extensive experiments using three datasets, and the experimental results show that the predicted values for systolic and diastolic blood pressure are within the clinically acceptable error range, meeting the Advancement of Medical Instrumentation (AAMI) SP10 standard and achieving at least British Hypertension Society (BHS) grade B.
     </div>
   </details>
