@@ -18,6 +18,7 @@ I am interested in wireless sensing and mobile computing for cardiovascular heal
 News 🔥
 ======
 - **Apr 2026** Our paper “Transfer Learning-enabled Contactless Blood Pressure Monitoring” was accepted by TMC.
+- **Feb 2026** Our paper “mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds” was accepted by CVPR 2026.
 
 
 Selected Publications 📑
