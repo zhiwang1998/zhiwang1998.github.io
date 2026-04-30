@@ -22,7 +22,7 @@ News 🔥
 
 Selected Publications 📑
 ======
-- <span style="background-color: #90EE90; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">TMC '26</span>
+- <span style="background-color: #90EE90; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">IEEE TMC</span>
   [Transfer Learning-enabled Contactless Blood Pressure Monitoring](https://ieeexplore.ieee.org/document/11481627)
   <br>
   **<u>Zhi Wang</u>**, Zhe Li, Beihong Jin, Yuhui Chen, Tao Gong.
