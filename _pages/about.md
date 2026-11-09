@@ -10,15 +10,18 @@ redirect_from:
 
 Bio 🎓
 ======
-I am a PhD candidate at Institute of Software, Chinese Academy of Sciences, advised by Prof. [Beihong Jin](https://scholar.google.com/citations?user=wxjUEnoAAAAJ) and Prof. [Fusang Zhang](https://scholar.google.com/citations?user=qBQOXTwAAAAJ). I received my B.S. degree from Beijing Jiaotong University in 2020.
+I am currently a postdoctoral researcher at Beihang University. I received my Ph.D. degree from the Institute of Software, Chinese Academy of Sciences, in 2026, under the supervision of Prof. [Beihong Jin](https://scholar.google.com/citations?user=wxjUEnoAAAAJ) and Prof. [Fusang Zhang](https://scholar.google.com/citations?user=qBQOXTwAAAAJ). I received my B.S. degree from Beijing Jiaotong University in 2020.
 
 I am interested in wireless sensing and mobile computing for cardiovascular health monitoring. More recently, I focus on the privacy and security challenges in wireless sensing.
 
 
+
 News 🔥
 ======
+- **Oct 2026** Our paper “A Survey on Contactless Sensing Technologies for Cardiovascular Health Monitoring” was accepted by FCS.
 - **Apr 2026** Our paper “Transfer Learning-enabled Contactless Blood Pressure Monitoring” was accepted by IEEE TMC.
 - **Feb 2026** Our paper “mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds” was accepted by CVPR 2026.
+
 
 
 Selected Publications 📑
