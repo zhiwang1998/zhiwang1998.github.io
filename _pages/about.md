@@ -26,6 +26,20 @@ News 🔥
 
 Selected Publications 📑
 ======
+- <span style="background-color: #5273B5; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">FCS</span>
+  [A Survey on Contactless Sensing Technologies for Cardiovascular Health Monitoring](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-61796-z)
+  <br>
+  **<u>Zhi Wang</u>**, Zhe Li, Beihong Jin, Yuhui Chen, Tao Gong.
+  <br>
+  *Frontiers of Computer Science (FCS)*
+  <br>
+  <details style="cursor: pointer;margin-bottom: 1em;">
+    <summary style="font-size: 0.9em; color: #666; font-weight: bold;">Abstract</summary>
+    <div style="margin-top: 10px; padding: 10px; background: #f9f9f9; border-left: 3px solid #5273B5; font-size: 0.95em; color: #444;">
+      Cardiovascular diseases (CVDs) are one of the leading causes of death and disability worldwide. In recent years, CVDs have exhibited a growing prevalence and are increasingly affecting younger populations. Conventional cardiovascular health monitoring methods primarily rely on contact-based or wearable devices. While these methods provide high measurement accuracy, they have limitations in terms of continuous monitoring, convenience, and user compliance. With the rapid development of sensor and signal processing technologies, contactless sensing has emerged as a promising alternative for achieving continuous, non-invasive cardiovascular health monitoring in daily life. This paper provides a comprehensive review of recent research progress in contactless cardiovascular health monitoring from a bottom-up perspective across three layers: physical, signal processing, and application. At the physical layer, we analyze the performance trade-offs of various devices and waveforms across key metrics such as deployment range and sensing resolution. At the signal processing layer, we investigate signal filtering and enhancement algorithms designed to extract weak vital signs. At the application layer, we review deep learning based mapping strategies that bridge the gap between contactless mechanical vibrations and complex cardiovascular indicators like blood pressure and electrocardiogram. Finally, we summarize the future research directions to guide further developments in this field.
+    </div>
+  </details>
+  
 - <span style="background-color: #1C4596; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">IEEE TMC</span>
   [Transfer Learning-enabled Contactless Blood Pressure Monitoring](https://ieeexplore.ieee.org/document/11481627)
   <br>
