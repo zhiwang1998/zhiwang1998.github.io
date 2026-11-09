@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 # site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhi Wang"
+title                    : "Zhi Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Zhi Wang"
 description              : &description "Zhi Wang"   # Update this with a general description of your site, this is the default if not overridden by a page
