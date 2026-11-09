@@ -29,7 +29,7 @@ Selected Publications 📑
 - <span style="background-color: #5273B5; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: 600;font-size: 0.8em">FCS</span>
   [A Survey on Contactless Sensing Technologies for Cardiovascular Health Monitoring](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-61796-z)
   <br>
-  **<u>Zhi Wang</u>**, Zhe Li, Beihong Jin, Yuhui Chen, Tao Gong.
+  **<u>Zhi Wang</u>**, Beihong Jin, Fusang Zhang, Hongbin Luo.
   <br>
   *Frontiers of Computer Science (FCS)*
   <br>
